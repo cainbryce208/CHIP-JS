@@ -1,0 +1,12 @@
+{
+  "name": "chip",
+  "version": "1.0.0",
+  "description": "configurable and streamline NodeJS webserver",
+  "main": "app.js",
+  "bin": "./bin/app.js",
+  "scripts": {
+    "test": "node ./bin/app.js"
+  },
+  "author": "cainbryce208",
+  "license": "ISC"
+}
