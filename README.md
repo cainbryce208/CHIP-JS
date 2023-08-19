@@ -1,7 +1,7 @@
-# C-HTTP (CHIP) 
-C-HTTP (CHIP) is a highly configurable library for NodeJS that expands the basic features of the HTTP web server
+# CHIP-JS
+CHIP-JS is a highly configurable library for NodeJS that expands the basic features of the HTTP web server
  ## Main Focus / Features
- the main focus of CHIP is to streamline a very basic but highly configurable HTTP server with NodeJs. 
+ the main focus of CHIP is to streamline a very basic but highly configurable HTTP server for serving webpages, files, or handling api endpoints with NodeJS 
  # The features
  1) streamlined pages/views. pop your .html or any supported file.
  2) along with the automatic indexing/parsing of views. by default, a route is generated for the view.
